@@ -1,0 +1,23 @@
+{
+  "name": "OmegaVault",
+  "short_name": "OmegaVault",
+  "description": "Ultimate streaming platform for movies, Nollywood, and exclusive content.",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#e50914",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/3z07rr.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://files.catbox.moe/29wglg.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "scope": "/",
+  "orientation": "portrait"
+}
